@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TrailDAO and I love all things pizza and solidity.
+- 👋 Hi, I’m @PapaPizzaiolo and I love all things pizza and solidity.
 - 👀 I’m interested in collaborating on regenerative cryptoeconomic projects around public goods. That's my long term mission.
-- 🌱 I’m currently working on all things web3. I love bounties and DAO work. I have a couple of NFT projects as well.
+- 🌱 I’m currently working on all things web3. I love bounties and DAO work.
 - 🐦 X @TrailDAO
 
 <!---
